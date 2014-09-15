@@ -30,7 +30,9 @@
 <h2>What previous experience do you have with programming?</h2>
 <p>The majority of previous education and experience has been focused on creating web pages/sites (using html, xml, css, etc.). This semester, I am also taking a class focused on java.</p>
 <h2>Are you working on a Mac, PC, or some other platform?</h2>
-<p>My main work computer is a Mac Mini running running OX X version 10.6.8.</p>
+<p>My main work computer is a Mac Mini running running OS X version 10.6.8.</p>
+<h2>Anything else we should know?</h2>
+<p>Nothing that I can think of!</p>
 </div>
 </div>
 </body>
