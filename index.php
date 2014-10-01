@@ -15,9 +15,9 @@
 <div class="projects">
 <h2>Projects</h2>
 <ul>
-<li><p><a href="http://www.p2.justingilman.me" target="_blank">Project 2</a> | <a href="https://github.com/jug324/p2" target="_blank">Github</a></p></li>
-<li><p><a href="http://www.p3.justingilman.me" target="_blank">Project 3</a> | <a href="https://github.com/jug324/p3" target="_blank">Github</a></p></li>
-<li><p><a href="http://www.p4.justingilman.me" target="_blank">Project 4</a> | <a href="https://github.com/jug324/p4" target="_blank">Github</a></p></li>
+<li><p><a href="http://p2.justingilman.me" target="_blank">Project 2</a> | <a href="https://github.com/jug324/p2" target="_blank">Github</a></p></li>
+<li><p><a href="http://p3.justingilman.me" target="_blank">Project 3</a> | <a href="https://github.com/jug324/p3" target="_blank">Github</a></p></li>
+<li><p><a href="http://p4.justingilman.me" target="_blank">Project 4</a> | <a href="https://github.com/jug324/p4" target="_blank">Github</a></p></li>
 </ul>
 </div>
 
